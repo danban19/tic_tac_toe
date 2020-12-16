@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: prime_numbers = ...
+  learner_created: false
+- name: ttt.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/9515#comment
+status: Solved
+record: -1
